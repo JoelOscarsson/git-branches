@@ -35,7 +35,13 @@ så öppnar vi en pull request. Detta gör vi i fliken pull request.
 <img src="assets/pull_request.png" width = 400>
 
 ---
+<<<<<<< HEAD
+## Merge
+
+Efter pull request är det viktigt att varje person kör en pull till sin main branch och pull till sin egna branch.
+=======
 
 ## Merging 
 
 Detta ska skapa en konflikt!
+>>>>>>> ea73f4820e825de59db81b281c3592ca752af9b3
